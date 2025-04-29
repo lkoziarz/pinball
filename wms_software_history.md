@@ -110,7 +110,7 @@ With regard to the debuggers, the first native debugger we created was DCON, cre
 “PIGS” were two 2K x 8 RAM chips placed piggyback with an inverter on it’s back (probably a 7400) to decode select the chips based on the high address line for the 4K ROM socket.
 
 
-* *Editor’s Note: The PIGS continued with later systems, eventually ending up with 8 megabytes of SRAM in a small daughter board that fit to the WPC or WPC-95 ROM socket. An extra pad on the CPU’s circuit board carried the write signal from the custom ASIC to the PIG* *
+* *Editor’s Note: The PIGS continued with later systems, eventually ending up with 8 megabits of SRAM in a small daughter board that fit to the WPC or WPC-95 ROM socket. An extra pad on the CPU’s circuit board carried the write signal from the custom ASIC to the PIG* *
 
 
 In some order, there was a RAID board created for the short-lived 68000 color vector system that Eugene and I started working with before Blaster and BLACK FLAG was created for Pinball with software by Pfutz.
