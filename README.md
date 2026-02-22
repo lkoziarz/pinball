@@ -10,3 +10,6 @@ A 1995 trip report from three Williams engineers to the CEO of the company about
 ## wms_software_history
 An email conversation that took place in 2020, recalling the origins and evolution of pinball software at Williams Electronics Games, Inc.
 Mostly told by one of the pioneers in modern solid-state pinball, Larry DeMar (aka LED)
+
+## DCS_history.md
+An email conversation by Williams/Bally/Midway sound engineers on the early development of the DCS sound system and other interesting stories.
