@@ -13,3 +13,6 @@ Mostly told by one of the pioneers in modern solid-state pinball, Larry DeMar (a
 
 ## DCS_history
 An email conversation by Williams/Bally/Midway sound engineers on the early development of the DCS sound system and other interesting stories.
+
+## Kirk_Crisis.md
+Steve Kirk's 1985 interview with Play Meter magazine, in three parts, about the "creative crisis" in coin-op in the mid 80s.
